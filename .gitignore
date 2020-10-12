@@ -1,0 +1,7 @@
+﻿# ignore with these extensions...
+*.swp
+*.un~
+
+# ignore even valid files if in...
+.git/*
+node_modules/*
